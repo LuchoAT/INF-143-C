@@ -11,7 +11,6 @@ public class Main {
 		// t-casos de prueba
 		int t = sc.nextInt();
 		for (int i = 0; i < t; i++) {
-			// ver si existe un x que cumpla la condicion del enunciado
 			long x = sc.nextLong();
 			long L = 1, R = 2000000001;
 			while (R - L > 1) {
