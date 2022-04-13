@@ -1,7 +1,7 @@
 import java.util.BitSet;
 import java.util.Scanner;
 
-class Main {
+public class MetodosOrdenamiento {
 
 	static void mostrar(int[] x) {
 		for (int i = 0; i < x.length; i++)
